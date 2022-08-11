@@ -2,6 +2,8 @@
 
 React webapp intended for making printable contact sheets locally.
 
+![React Contact Sheet](./docs/react_contact_sheet.jpg)
+
 This project is a convenience wrapper around `react-photo-gallery` for the sole purpose of viewing a large set of uniformly sized / shaped images as part of a creative review worklow. I simply found viewing these images in a file browser insufficient due to the un-necessary styling, spacing and meta information.
 
 https://github.com/neptunian/react-photo-gallery
