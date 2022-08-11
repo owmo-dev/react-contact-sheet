@@ -1,5 +1,6 @@
 import React from 'react';
+import ContactSheet from './ContactSheet';
 
 export default function App() {
-    return <h1>App</h1>;
+    return <ContactSheet />;
 }
